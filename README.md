@@ -1,0 +1,1 @@
+# 6_stringmethod_LowerCase_UpperCase_trim
